@@ -41,7 +41,7 @@ Quiz App (Admin Console) надає такі функціональні можл
 </p>
 
 ### Вікно питань | Додавання питань
-<p align="left">
+<p align="center">
   <img src="https://github.com/kovach-dmitry/DigiJ_Quiz_App_Admin/blob/main/Screenshots/Questions.png" width="300" />
   <img src="https://github.com/kovach-dmitry/DigiJ_Quiz_App_Admin/blob/main/Screenshots/addQuestion.png" width="300" />
 </p>
