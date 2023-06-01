@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "900140909199",
+    "firebase_url": "https://digij-quiz-app-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "digij-quiz-app",
+    "storage_bucket": "digij-quiz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900140909199:android:a98c02ef0fba9c2795a6fa",
+        "android_client_info": {
+          "package_name": "com.example.digijquizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900140909199-k93m7cphl721spfcejaotjoj10agbv1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digijquizapp",
+            "certificate_hash": "e43e2d9e223493ed5d405c2e2653b0300bfb6b71"
+          }
+        },
+        {
+          "client_id": "900140909199-ldido0sgk07mh9k2s6o99b4hs0k3572j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl5qxMRNVkULaACTKPRWkrBrcoxfhZj14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900140909199-ldido0sgk07mh9k2s6o99b4hs0k3572j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
